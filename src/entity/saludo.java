@@ -9,5 +9,7 @@ package entity;
  * @author labso10
  */
 public class saludo {
-    
+    public void metodo1(){
+        System.out.println("Soy el uno");
+    }
 }
